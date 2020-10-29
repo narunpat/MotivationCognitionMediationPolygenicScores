@@ -1,0 +1,2 @@
+# MotivationCognitionMediationPolygenicScores
+Motivation and Cognition as Mediator for Psychopathology Polygenic Scores
